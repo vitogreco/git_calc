@@ -1,4 +1,3 @@
-
 #multiplica
 def multiplicacion(a,b)
         return a*b
@@ -7,6 +6,3 @@ end
 def divicion(a,b)
         return a/b
 end
-
-
-
