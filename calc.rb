@@ -1,8 +1,17 @@
 #multiplica
-def multiplicacion(a,b)
+def mult(a,b)
         return a*b
 end
 #Divide
-def divicion(a,b)
+def div(a,b)
         return a/b
+end
+
+def suma (a,b)
+        return a+b
+end
+
+
+def resta(a,b)
+	return a-b
 end
